@@ -1,0 +1,20 @@
+Action	3.454453
+Adventure	3.507092
+Animation	3.610499
+Children	3.416641
+Comedy	3.417460
+Crime	3.678502
+Documentary	3.722772
+Drama	3.674277
+Fantasy	3.502991
+Film-Noir	3.940806
+Horror	3.275260
+IMAX	3.637098
+Musical	3.543914
+Mystery	3.661510
+(no genres listed)	3.208015
+Romance	3.542462
+Sci-Fi	3.455173
+Thriller	3.512690
+War	3.803267
+Western	3.571619

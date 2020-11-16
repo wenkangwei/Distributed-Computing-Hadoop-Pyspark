@@ -1,0 +1,5 @@
+sequential_heat_distribution: sequential_heat_distribution.c
+	mpicc sequential_heat_distribution.c -o sequential_heat_distribution
+
+MPI_heat_distribution: MPI_heat_distribution.c
+	mpicc MPI_heat_distribution.c -o MPI_heat_distribution

@@ -1,0 +1,3 @@
+qsub -I -l select=1:ncpus=16:mem=16gb:mpiprocs=16:ngpus=2:gpu_model=k40,walltime=24:00:00
+module load openmpi/1.10.3-gcc/5.4.0-cuda9_2
+module load anaconda3/2020.07-gcc/8.3.1

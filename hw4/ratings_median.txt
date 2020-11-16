@@ -1,0 +1,20 @@
+(no genres listed)	3.000000
+Action	3.000000
+Adventure	4.000000
+Animation	3.500000
+Children	4.000000
+Comedy	4.000000
+Crime	4.000000
+Documentary	5.000000
+Drama	5.000000
+Fantasy	4.000000
+Film-Noir	5.000000
+Horror	4.000000
+IMAX	4.000000
+Musical	3.000000
+Mystery	4.000000
+Romance	3.500000
+Sci-Fi	2.000000
+Thriller	5.000000
+War	2.000000
+Western	4.000000
